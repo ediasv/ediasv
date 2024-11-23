@@ -3,4 +3,4 @@
   
 I'm currently pursuing my bachelor's degree in Computer Engineering at Universidade Tecnológica Federal do Paraná.\
 \
-I use my GitHub repos to store the code from my assignments and personal projects.
+I use GitHub for my assignments and personal projects.
