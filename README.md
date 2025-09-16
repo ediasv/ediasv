@@ -3,4 +3,4 @@
   
 I'm currently pursuing my bachelor's degree in Computer Engineering at Universidade Tecnológica Federal do Paraná.\
 \
-I use GitHub for my assignments and personal projects.
+I use GitHub for my assignments, personal projects and professional work.
