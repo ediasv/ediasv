@@ -1,6 +1,6 @@
 # Eduardo Vinicius Dias
 
-**Software Engineer & Computer Engineering student at UTFPR**
+**Computer Engineering student at UTFPR**
 
 I'm a Computer Engineering undergraduate interested in building reliable
 software and understanding the systems behind it.
