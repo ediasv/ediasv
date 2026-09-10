@@ -30,28 +30,28 @@ systems programming, cybersecurity and mobile app development**.
 Currently conducting research involving **cybersecurity, cryptography and
 malware taxonomy**.
 
-- Study the use of cryptography in malware and malicious software.
-- Research methods for classifying and organizing malware-related techniques.
-- Explore the intersection between cryptographic mechanisms and cybersecurity threats.
+* Study the use of cryptography in malware and malicious software.
+* Research methods for classifying and organizing malware-related techniques.
+* Explore the intersection between cryptographic mechanisms and cybersecurity threats.
 
 ### Software Engineering — Driva
 
 Worked on the development and maintenance of a B2B SaaS platform using
 **TypeScript, Node.js, NestJS, React, Golang, PostgreSQL, Redis and RabbitMQ**.
 
-- Led development of social integration features.
-- Built an integration with the official WhatsApp Business API.
-- Worked on lead communication flows involving LinkedIn, email and WhatsApp.
-- Progressed from Software Engineering Intern to Junior Software Engineer.
+* Led development of social integration features.
+* Built an integration with the official WhatsApp Business API.
+* Worked on lead communication flows involving LinkedIn, email and WhatsApp.
+* Progressed from Software Engineering Intern to Junior Software Engineer.
 
 ### Research Internship — Wilfrid Laurier University
 
 Worked on the **DTUMOS digital twin framework** for public transportation
 simulation.
 
-- Extended the framework to simulate bus traffic.
-- Worked on ETA prediction for public transportation.
-- Research focused on evaluating the impact of dedicated bus lanes on
+* Extended the framework to simulate bus traffic.
+* Worked on ETA prediction for public transportation.
+* Research focused on evaluating the impact of dedicated bus lanes on
   traffic in Curitiba.
 
 ---
@@ -67,12 +67,12 @@ software architecture and object-oriented design.
 
 ---
 
-### [Particle Collision Simulation](https://github.com/ediasv/particles-cpp)
+### [Particle Collision Simulation](https://github.com/ediasv/particles-python)
 
-Real-time 2D particle simulation implementing movement, boundary
-collisions and particle-to-particle collision handling.
+A real-time 2D particle simulation developed in **Python**, implementing
+particle movement, boundary collisions and particle-to-particle collision handling.
 
-`C++` `SFML` `CMake` `Simulation`
+`Python` `Simulation` `Collision Detection`
 
 ---
 
@@ -96,27 +96,27 @@ frontend development and game logic.
 
 ## Technologies
 
-**Languages**  
+**Languages**
 TypeScript · Go · C++ · C · Python · JavaScript
 
-**Backend & Data**  
+**Backend & Data**
 Node.js · NestJS · PostgreSQL · Redis · RabbitMQ
 
-**Frontend**  
+**Frontend**
 React · HTML · CSS
 
-**Systems & Tools**  
+**Systems & Tools**
 Linux · Docker · Git · CMake
 
-**Embedded**  
+**Embedded**
 Arduino · ESP32 · ARM Assembly
 
 ---
 
 ## Education
 
-**B.Sc. in Computer Engineering**  
-Universidade Tecnológica Federal do Paraná — UTFPR  
+**B.Sc. in Computer Engineering**
+Universidade Tecnológica Federal do Paraná — UTFPR
 2023 — Ongoing
 
 ---
