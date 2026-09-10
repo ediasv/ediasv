@@ -7,11 +7,16 @@ software and understanding the systems behind it.
 
 I have professional experience in backend and full-stack development,
 working with SaaS applications, integrations and data-intensive systems.
-I have also worked on research involving digital twins and public
-transportation simulation.
+I have also worked on research involving digital twins and public transportation
+simulation at Wilfrid Laurier University.
+
+Currently, I conduct research at UTFPR at the intersection of **cybersecurity,
+cryptography and malware taxonomy**. I am also expanding my interests toward
+**mobile app development** and the process of designing and building
+user-facing software.
 
 My main interests include **software engineering, backend development,
-systems programming, cybersecurity and embedded systems**.
+systems programming, cybersecurity and mobile app development**.
 
 [LinkedIn](https://www.linkedin.com/in/eduardovdias/) ·
 [Email](mailto:eduvidias@gmail.com)
@@ -20,10 +25,19 @@ systems programming, cybersecurity and embedded systems**.
 
 ## Experience
 
+### Cybersecurity Research — UTFPR
+
+Currently conducting research involving **cybersecurity, cryptography and
+malware taxonomy**.
+
+- Study the use of cryptography in malware and malicious software.
+- Research methods for classifying and organizing malware-related techniques.
+- Explore the intersection between cryptographic mechanisms and cybersecurity threats.
+
 ### Software Engineering — Driva
 
 Worked on the development and maintenance of a B2B SaaS platform using
-**TypeScript, Node.js, NestJS, React, Go and PostgreSQL**.
+**TypeScript, Node.js, NestJS, React, Golang, PostgreSQL, Redis and RabbitMQ**.
 
 - Led development of social integration features.
 - Built an integration with the official WhatsApp Business API.
@@ -86,7 +100,7 @@ frontend development and game logic.
 TypeScript · Go · C++ · C · Python · JavaScript
 
 **Backend & Data**  
-Node.js · NestJS · PostgreSQL · Redis
+Node.js · NestJS · PostgreSQL · Redis · RabbitMQ
 
 **Frontend**  
 React · HTML · CSS
@@ -95,7 +109,7 @@ React · HTML · CSS
 Linux · Docker · Git · CMake
 
 **Embedded**  
-ESP32 · ARM Assembly
+Arduino · ESP32 · ARM Assembly
 
 ---
 
@@ -103,11 +117,12 @@ ESP32 · ARM Assembly
 
 **B.Sc. in Computer Engineering**  
 Universidade Tecnológica Federal do Paraná — UTFPR  
-2023 — 2028
+2023 — Ongoing
 
 ---
 
 ## Interests
 
 Software Engineering · Backend Systems · Distributed Systems ·
-Cybersecurity · Embedded Systems · Computer Simulation
+Cybersecurity · Cryptography · Mobile App Development ·
+Embedded Systems · Computer Simulation
