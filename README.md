@@ -1,4 +1,4 @@
-# Eduardo Dias
+# Eduardo V. Dias
 
 **Software Engineer & Computer Engineering student at UTFPR**
 
